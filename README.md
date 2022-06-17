@@ -9,8 +9,9 @@
   
 </h3>
 <br>
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
+[![Watch the video](https://img.youtube.com/vi/o7q7VrzWuCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=o7q7VrzWuCo)
+<br>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -42,3 +43,4 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
