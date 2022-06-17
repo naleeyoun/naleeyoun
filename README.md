@@ -9,6 +9,7 @@
   
 </h3>
 <br>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
 <div align=center><h1>📚 STACKS</h1></div>
