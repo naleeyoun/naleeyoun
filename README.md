@@ -1,5 +1,13 @@
 # readMe
-INFJ 개발자 👋
+<h1 align=center>
+  안녕하세요👋 <br>
+  🌼 INFJ 개발자 🌼 <br>
+</h1>
+
+<h3 align=center>
+  👩 윤이나<br> 📧naleeyoun@naver.com
+</h3>
+<br>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
